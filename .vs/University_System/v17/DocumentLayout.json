@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\University_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79BDCF41-A204-430C-9549-1E5EF049362A}|University_System\\University_System.csproj|c:\\users\\hp\\source\\repos\\university_system\\university_system\\models\\universitysystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BDCF41-A204-430C-9549-1E5EF049362A}|University_System\\University_System.csproj|solutionrelative:university_system\\models\\universitysystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BDCF41-A204-430C-9549-1E5EF049362A}|University_System\\University_System.csproj|c:\\users\\hp\\source\\repos\\university_system\\university_system\\models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BDCF41-A204-430C-9549-1E5EF049362A}|University_System\\University_System.csproj|solutionrelative:university_system\\models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BDCF41-A204-430C-9549-1E5EF049362A}|University_System\\University_System.csproj|c:\\users\\hp\\source\\repos\\university_system\\university_system\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BDCF41-A204-430C-9549-1E5EF049362A}|University_System\\University_System.csproj|solutionrelative:university_system\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BDCF41-A204-430C-9549-1E5EF049362A}|University_System\\University_System.csproj|c:\\users\\hp\\source\\repos\\university_system\\university_system\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BDCF41-A204-430C-9549-1E5EF049362A}|University_System\\University_System.csproj|solutionrelative:university_system\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BDCF41-A204-430C-9549-1E5EF049362A}|University_System\\University_System.csproj|c:\\users\\hp\\source\\repos\\university_system\\university_system\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BDCF41-A204-430C-9549-1E5EF049362A}|University_System\\University_System.csproj|solutionrelative:university_system\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BDCF41-A204-430C-9549-1E5EF049362A}|University_System\\University_System.csproj|c:\\users\\hp\\source\\repos\\university_system\\university_system\\models\\departmentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BDCF41-A204-430C-9549-1E5EF049362A}|University_System\\University_System.csproj|solutionrelative:university_system\\models\\departmentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BDCF41-A204-430C-9549-1E5EF049362A}|University_System\\University_System.csproj|c:\\users\\hp\\source\\repos\\university_system\\university_system\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BDCF41-A204-430C-9549-1E5EF049362A}|University_System\\University_System.csproj|solutionrelative:university_system\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BDCF41-A204-430C-9549-1E5EF049362A}|University_System\\University_System.csproj|c:\\users\\hp\\source\\repos\\university_system\\university_system\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BDCF41-A204-430C-9549-1E5EF049362A}|University_System\\University_System.csproj|solutionrelative:university_system\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BDCF41-A204-430C-9549-1E5EF049362A}|University_System\\University_System.csproj|c:\\users\\hp\\source\\repos\\university_system\\university_system\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BDCF41-A204-430C-9549-1E5EF049362A}|University_System\\University_System.csproj|solutionrelative:university_system\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BDCF41-A204-430C-9549-1E5EF049362A}|University_System\\University_System.csproj|c:\\users\\hp\\source\\repos\\university_system\\university_system\\views\\student\\editstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79BDCF41-A204-430C-9549-1E5EF049362A}|University_System\\University_System.csproj|solutionrelative:university_system\\views\\student\\editstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BDCF41-A204-430C-9549-1E5EF049362A}|University_System\\University_System.csproj|c:\\users\\hp\\source\\repos\\university_system\\university_system\\views\\student\\showstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79BDCF41-A204-430C-9549-1E5EF049362A}|University_System\\University_System.csproj|solutionrelative:university_system\\views\\student\\showstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BDCF41-A204-430C-9549-1E5EF049362A}|University_System\\University_System.csproj|c:\\users\\hp\\source\\repos\\university_system\\university_system\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79BDCF41-A204-430C-9549-1E5EF049362A}|University_System\\University_System.csproj|solutionrelative:university_system\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BDCF41-A204-430C-9549-1E5EF049362A}|University_System\\University_System.csproj|c:\\users\\hp\\source\\repos\\university_system\\university_system\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79BDCF41-A204-430C-9549-1E5EF049362A}|University_System\\University_System.csproj|solutionrelative:university_system\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BDCF41-A204-430C-9549-1E5EF049362A}|University_System\\University_System.csproj|c:\\users\\hp\\source\\repos\\university_system\\university_system\\views\\student\\showdepartmentcourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79BDCF41-A204-430C-9549-1E5EF049362A}|University_System\\University_System.csproj|solutionrelative:university_system\\views\\student\\showdepartmentcourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BDCF41-A204-430C-9549-1E5EF049362A}|University_System\\University_System.csproj|c:\\users\\hp\\source\\repos\\university_system\\university_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BDCF41-A204-430C-9549-1E5EF049362A}|University_System\\University_System.csproj|solutionrelative:university_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BDCF41-A204-430C-9549-1E5EF049362A}|University_System\\University_System.csproj|c:\\users\\hp\\source\\repos\\university_system\\university_system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BDCF41-A204-430C-9549-1E5EF049362A}|University_System\\University_System.csproj|solutionrelative:university_system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\University_System\\University_System\\Models\\Schedule.cs",
+              "RelativeDocumentMoniker": "University_System\\Models\\Schedule.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\University_System\\University_System\\Models\\Schedule.cs",
+              "RelativeToolTip": "University_System\\Models\\Schedule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T11:02:40.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\University_System\\University_System\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "University_System\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\University_System\\University_System\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "University_System\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T11:02:18.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\University_System\\University_System\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "University_System\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\University_System\\University_System\\Models\\Department.cs",
+              "RelativeToolTip": "University_System\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T11:01:52.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditStudent.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\University_System\\University_System\\Views\\Student\\EditStudent.cshtml",
+              "RelativeDocumentMoniker": "University_System\\Views\\Student\\EditStudent.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\University_System\\University_System\\Views\\Student\\EditStudent.cshtml",
+              "RelativeToolTip": "University_System\\Views\\Student\\EditStudent.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T10:57:13.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShowStudents.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\University_System\\University_System\\Views\\Student\\ShowStudents.cshtml",
+              "RelativeDocumentMoniker": "University_System\\Views\\Student\\ShowStudents.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\University_System\\University_System\\Views\\Student\\ShowStudents.cshtml",
+              "RelativeToolTip": "University_System\\Views\\Student\\ShowStudents.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwCIAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T10:43:07.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentCourse.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\University_System\\University_System\\Models\\StudentCourse.cs",
+              "RelativeDocumentMoniker": "University_System\\Models\\StudentCourse.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\University_System\\University_System\\Models\\StudentCourse.cs*",
+              "RelativeToolTip": "University_System\\Models\\StudentCourse.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T10:12:37.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\University_System\\University_System\\Program.cs",
+              "RelativeDocumentMoniker": "University_System\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\University_System\\University_System\\Program.cs",
+              "RelativeToolTip": "University_System\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:32:23.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\University_System\\University_System\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "University_System\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\University_System\\University_System\\Models\\Student.cs",
+              "RelativeToolTip": "University_System\\Models\\Student.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAswBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:51:10.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ShowDepartmentCourses.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\University_System\\University_System\\Views\\Student\\ShowDepartmentCourses.cshtml",
+              "RelativeDocumentMoniker": "University_System\\Views\\Student\\ShowDepartmentCourses.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\University_System\\University_System\\Views\\Student\\ShowDepartmentCourses.cshtml",
+              "RelativeToolTip": "University_System\\Views\\Student\\ShowDepartmentCourses.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T07:49:11.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\University_System\\University_System\\Views\\Student\\Add.cshtml",
+              "RelativeDocumentMoniker": "University_System\\Views\\Student\\Add.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\University_System\\University_System\\Views\\Student\\Add.cshtml",
+              "RelativeToolTip": "University_System\\Views\\Student\\Add.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAC8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T07:46:06.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\University_System\\University_System\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "University_System\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\University_System\\University_System\\Controllers\\StudentController.cs*",
+              "RelativeToolTip": "University_System\\Controllers\\StudentController.cs*",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAkwKcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:43:59.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\University_System\\University_System\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "University_System\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\University_System\\University_System\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "University_System\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T07:43:27.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\University_System\\University_System\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "University_System\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\University_System\\University_System\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "University_System\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:41:51.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\University_System\\University_System\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "University_System\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\University_System\\University_System\\Models\\Course.cs",
+              "RelativeToolTip": "University_System\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:41:05.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentCourse.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\University_System\\University_System\\Models\\DepartmentCourse.cs",
+              "RelativeDocumentMoniker": "University_System\\Models\\DepartmentCourse.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\University_System\\University_System\\Models\\DepartmentCourse.cs",
+              "RelativeToolTip": "University_System\\Models\\DepartmentCourse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:41:03.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UniversitySystemContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\University_System\\University_System\\Models\\UniversitySystemContext.cs",
+              "RelativeDocumentMoniker": "University_System\\Models\\UniversitySystemContext.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\University_System\\University_System\\Models\\UniversitySystemContext.cs",
+              "RelativeToolTip": "University_System\\Models\\UniversitySystemContext.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAAAKwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:40:47.448Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
